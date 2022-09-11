@@ -1,1 +1,8 @@
 Jorge Jesus
+O primeiro passo para o vercionamento é iniciar um repositório com o git init
+após isso criar uma branch, pode ser com os comandos git branch nome-da-branch, git checkout nome-da-branch ou git checkout -b nome-da-branch.
+após isso pode adicionar os arquivos que desejar na pasta
+mandar para staging com o git add . ou git add nome-do-arquivos
+em seguida realizar o commit com o comando git commit -m "frase curta explicando a modificação"
+e está pronto
+caso não estaja na branch principal voce pode mandar para main com o git merge nome-da-branch.
