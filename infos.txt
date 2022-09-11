@@ -6,3 +6,8 @@ mandar para staging com o git add . ou git add nome-do-arquivos
 em seguida realizar o commit com o comando git commit -m "frase curta explicando a modificação"
 e está pronto
 caso não estaja na branch principal voce pode mandar para main com o git merge nome-da-branch.
+
+-------------------------------------------------------
+legal
+no caso sobre o merge
+se eu quiser envias as modificação para a main, eu vou entrar na branch main e digitar o comando git merge nome-da-outra-branch.
